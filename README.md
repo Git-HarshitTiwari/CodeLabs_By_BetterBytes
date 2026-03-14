@@ -51,7 +51,7 @@ The platform combines **live code synchronization, AI-assisted coding, role-base
 - WebSockets
 
 ### AI Integration
-- Google Gemini 1.5 Flash
+- Google Gemini 2.5 Flash
 - google-generativeai SDK
 
 ### Security
