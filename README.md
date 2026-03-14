@@ -15,7 +15,7 @@ The platform combines **live code synchronization, AI-assisted coding, role-base
   - Cursor presence and collaborative editing
 
 - **AI Coding Assistant**
-  - Integrated assistant powered by **Google Gemini 1.5 Flash**
+  - Integrated assistant powered by **Google Gemini 2.5 Flash**
   - Context-aware responses using current code
   - Multi-turn conversation support
 
